@@ -15,7 +15,7 @@ class AdminHomeController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/homeSim';
+    protected $redirectTo = '/homeAdmin';
 
     /**
      * Create a new controller instance.

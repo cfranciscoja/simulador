@@ -13,4 +13,4 @@ Route::get('/', function () {
     return view('/auth/login');
 });
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/homeSim', [App\Http\Controllers\HomeController::class, 'index'])->name('homeSim');
+//Route::get('/homeSim', [App\Http\Controllers\HomeController::class, 'index'])->name('homeSim');
