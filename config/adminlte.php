@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Ciber Simulador',
+    'title' => 'CiberSimulador',
     'title_prefix' => '',
     'title_postfix' => '',
 
