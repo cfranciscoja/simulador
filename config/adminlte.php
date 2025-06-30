@@ -84,7 +84,7 @@ return [
     */
 
     'auth_logo' => [
-        'enabled' => false,
+        'enabled' => true,
         'img' => [
             'path' => 'img/logo.png',
             'alt' => 'Auth Logo',
@@ -256,7 +256,7 @@ return [
     |
     */
 
-    'use_route_url' => true,
+    'use_route_url' => false,
     'dashboard_url' => 'home',
     'logout_url' => 'logout',
     'login_url' => 'login',
