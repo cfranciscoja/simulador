@@ -315,6 +315,7 @@ return [
             'type' => 'sidebar-menu-search',
             'text' => 'Buscar',
         ],*/
+        ['header' => 'main_navigation'],
         [
             'text' => 'blog',
             'url' => 'admin/blog',
