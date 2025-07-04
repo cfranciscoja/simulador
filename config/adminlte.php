@@ -322,8 +322,8 @@ return [
             'can' => 'manage-blog',
         ],*/
         [
-            'text' => 'multilevel',
-            'icon' => 'fas fa-fw fa-share',
+            'text' => 'menu-contexto',
+            'icon' => 'far fa-fw fa-file',
             'submenu' => [
                 [
                     'text' => 'level_one',
