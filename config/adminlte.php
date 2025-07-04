@@ -311,10 +311,10 @@ return [
         ],
 
         // Sidebar items:
-        [
+        /*[
             'type' => 'sidebar-menu-search',
-            'text' => 'search',
-        ],
+            'text' => 'Buscar',
+        ],*/
         [
             'text' => 'blog',
             'url' => 'admin/blog',
