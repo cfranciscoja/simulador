@@ -316,11 +316,11 @@ return [
             'text' => 'Buscar',
         ],*/
         ['header' => 'main_navigation'],
-        [
+        /*[
             'text' => 'blog',
             'url' => 'admin/blog',
             'can' => 'manage-blog',
-        ],
+        ],*/
         [
             'text' => 'pages',
             'url' => 'admin/pages',
