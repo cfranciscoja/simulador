@@ -323,7 +323,8 @@ return [
         ],*/
         [
             'text' => 'menu-contexto',
-            'icon' => 'fas fa-circle',
+            'url' => 'admin/settings',
+            'icon' => 'fas fa-fw fa-user',
         ],
 
         [
