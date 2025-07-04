@@ -324,7 +324,7 @@ return [
         [
             'text' => 'menu-contexto',
             'url' => 'admin/settings',
-            'icon' => 'fas fa-fw fa-circle',
+            'icon' => 'far fa-fw fa-circle',
         ],
 
         [
